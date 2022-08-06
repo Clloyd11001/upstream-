@@ -6,15 +6,15 @@ This is the term project for **CS 210: File and Data Structures**. Follow the in
 
 I am the author of all original work committed to this repository, as identified below:
 
-+ **Full Name:** My Full Name
-+ **University Email:** example@mix.wvu.edu
++ **Full Name:** Collin Lloyd
++ **University Email:** cl0114@mix.wvu.edu
 + **Student ID:** 000000000
 
 ## Co-Author Identification (Pair Programming Only)
 
 My peer was a co-author of some original work committed to this repository, as identified below (copy format for each additional co-author):
 
-+ **Full Name:** Their Full Name
++ **Full Name:** Colby Gallaher
 + **Contribution:** Description of Module, File, Task, etc
 
 ## Academic Integrity Pledge
